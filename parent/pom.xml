@@ -115,7 +115,7 @@
         <cometd-java-client-version>9.0.0</cometd-java-client-version>
         <cometd-java-server-version>9.0.0</cometd-java-server-version>
         <commons-beanutils-version>1.11.0</commons-beanutils-version>
-        <commons-codec-version>1.21.0</commons-codec-version>
+        <commons-codec-version>1.22.0</commons-codec-version>
         <commons-collections-version>3.2.2</commons-collections-version>
         <commons-collections4-version>4.5.0</commons-collections4-version>
         <commons-compress-version>1.28.0</commons-compress-version>
@@ -257,7 +257,7 @@
         <hsqldb-version>2.7.4</hsqldb-version>
         <httpunit-version>1.7</httpunit-version>
         <httpcore-version>5.4.2</httpcore-version>
-        <httpclient-version>5.6.1</httpclient-version>
+        <httpclient-version>5.5.2</httpclient-version>
         <httpcore4-version>4.4.16</httpcore4-version>
         <httpclient4-version>4.5.14</httpclient4-version>
         <httpasyncclient-version>4.1.5</httpasyncclient-version>
@@ -273,7 +273,7 @@
         <iggy-version>0.8.0</iggy-version>
         <ignite-version>2.18.0</ignite-version>
         <impsort-maven-plugin-version>1.13.0</impsort-maven-plugin-version>
-        <infinispan-version>16.0.9</infinispan-version>
+        <infinispan-version>16.0.10</infinispan-version>
         <infinispan-protostream-version>6.0.2</infinispan-protostream-version>
         <influx-java-driver-version>2.25</influx-java-driver-version>
         <influx-client-java-driver-version>8.0.0</influx-client-java-driver-version>
@@ -282,7 +282,7 @@
         <ivy-version>2.5.3</ivy-version>
         <jackson-databind-nullable-version>0.2.9</jackson-databind-nullable-version>
         <jackson-jq-version>1.6.1</jackson-jq-version>
-        <jackson2-version>2.21.2</jackson2-version>
+        <jackson2-version>2.21.3</jackson2-version>
         <jackson2-annotations-version>2.20</jackson2-annotations-version>
         <jackson3-version>3.1.2</jackson3-version>
         <jackrabbit-version>2.22.3</jackrabbit-version>
@@ -320,7 +320,7 @@
         <jcache-version>1.1.1</jcache-version>
         <jcip-annotations-version>1.0-1</jcip-annotations-version>
         <jcr-version>2.0</jcr-version>
-        <jedis-client-version>7.4.1</jedis-client-version>
+        <jedis-client-version>7.5.0</jedis-client-version>
         <jetty-version>12.1.8</jetty-version>
         <jetty-plugin-version>${jetty-version}</jetty-plugin-version>
         <jetty-runner-groupId>org.eclipse.jetty</jetty-runner-groupId>
@@ -331,9 +331,9 @@
         <jgroups-raft-leveldbjni-version>1.8</jgroups-raft-leveldbjni-version>
         <jgroups-raft-mapdb-version>1.0.8</jgroups-raft-mapdb-version>
         <jira-rest-client-api-version>6.0.2</jira-rest-client-api-version>
-        <jline-version>4.0.12</jline-version>
+        <jline-version>4.0.13</jline-version>
         <libthrift-version>0.22.0</libthrift-version>
-        <jodatime2-version>2.14.1</jodatime2-version>
+        <jodatime2-version>2.14.2</jodatime2-version>
         <jolokia-version>2.5.1</jolokia-version>
         <jolt-version>0.1.8</jolt-version>
         <jool-version>0.9.15</jool-version>
@@ -441,8 +441,8 @@
         <olingo4-version>5.0.0</olingo4-version>
         <ognl-version>3.4.11</ognl-version>
         <mcp-java-sdk-version>1.1.2</mcp-java-sdk-version>
-        <openai-java-version>4.32.0</openai-java-version>
-        <openapi-generator-version>7.21.0</openapi-generator-version>
+        <openai-java-version>4.33.0</openai-java-version>
+        <openapi-generator-version>7.22.0</openapi-generator-version>
         <openjpa-version>4.1.1</openjpa-version>
         <opensearch-rest-client-version>3.6.0</opensearch-rest-client-version>
         <opensearch-java-client-version>3.8.0</opensearch-java-client-version>
@@ -459,7 +459,7 @@
         <parquet-common-version>1.17.0</parquet-common-version>
         <parquet-avro-version>1.17.0</parquet-avro-version>
         <pdfbox-version>3.0.7</pdfbox-version>
-        <pgjdbc-driver-version>42.7.10</pgjdbc-driver-version>
+        <pgjdbc-driver-version>42.7.11</pgjdbc-driver-version>
         <pgjdbc-ng-driver-version>0.8.9</pgjdbc-ng-driver-version>
         <pgvector-version>0.1.6</pgvector-version>
         <picocli-version>4.7.7</picocli-version>
@@ -478,7 +478,7 @@
         <protonpack-version>1.8</protonpack-version>
         <prowide-version>SRU2025-10.3.6</prowide-version>
         <pubnub-version>13.1.1</pubnub-version>
-        <pulsar-version>4.2.0</pulsar-version>
+        <pulsar-version>4.2.1</pulsar-version>
         <qdrant-client-version>1.17.0</qdrant-client-version>
         <qpid-broker-version>10.0.1</qpid-broker-version>
         <qpid-proton-j-version>0.34.1</qpid-proton-j-version>
@@ -519,7 +519,7 @@
         <solr-version>10.0.0</solr-version>
         <splunk-version>1.9.5_1</splunk-version>
         <spock-version>2.4-groovy-5.0</spock-version>
-        <spring-ai-version>1.1.4</spring-ai-version>
+        <spring-ai-version>1.1.5</spring-ai-version>
         <spring-cloud-config-version>5.0.2</spring-cloud-config-version>
         <spring-batch-version>6.0.3</spring-batch-version>
         <spring-boot-version>4.0.6</spring-boot-version>
@@ -541,7 +541,7 @@
         <swagger-java-version>1.6.10</swagger-java-version>
         <swagger-openapi3-version>2.2.36</swagger-openapi3-version>
         <swagger-java-parser-version>1.0.65</swagger-java-parser-version>
-        <swagger-openapi3-java-parser-version>2.1.40</swagger-openapi3-java-parser-version>
+        <swagger-openapi3-java-parser-version>2.1.41</swagger-openapi3-java-parser-version>
         <swagger-request-validator-version>2.46.1</swagger-request-validator-version>
         <stax-api-version>1.0.1</stax-api-version>
         <stringtemplate-version>4.3.4</stringtemplate-version>
@@ -1967,6 +1967,11 @@
             <dependency>
                 <groupId>org.apache.camel</groupId>
                 <artifactId>camel-jsonpath</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.camel</groupId>
+                <artifactId>camel-jsoup</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
